@@ -12,25 +12,30 @@
 
             <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 
-                <h4 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Introduction</h4>
+                <h2 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Introduction</h2>
+                <h3>Configuration</h3>
+                <h3>Driver Prerequisites</h3>
+                <hr>
                 <p>Since HTTP driven applications are stateless, sessions provide a way to store information about the user across multiple requests. </p>
 
-            </div>
-
-            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                <h4 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Configuration</h4>
-               <hr>
-                <a href="https://laravel.com/docs/6.x/session#configuration" target="_blank">Document</a>
-            </div>
-
-            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                <h4 class="mt-5 mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Driver Prerequisites</h4>
                 <hr>
-                 <a href="https://laravel.com/docs/6.x/session#driver-prerequisites" target="_blank">Document</a>
+                <h4 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Configuration</h4>
+                <a href="https://laravel.com/docs/6.x/session#configuration" target="_blank">Documentation</a>
+
+                <hr>
+                <h4 class="mt-5 mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Driver Prerequisites</h4>
+                
+                 <a href="https://laravel.com/docs/6.x/session#driver-prerequisites" target="_blank">Documentation</a>
             </div>
 
+           
             <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                <h4 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Using The Session</h4>
+                <h2 class="mb-4 py-2 pl-5 pr-2 bg-info d-inline-block">Using The Session</h2>
+                <h3>Retrieving Data</h3>
+                <h3>Storing Data</h3>
+                <h3>Flash Data</h3>
+                <h3>Deleting Data</h3>
+                <h3>Regenerating The Session ID</h3>
                
                 <hr>
                 <h4>Retrieving Data</h4>
