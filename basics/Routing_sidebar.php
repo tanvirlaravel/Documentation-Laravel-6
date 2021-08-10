@@ -8,13 +8,13 @@
 
     <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings">Route Groups</a>
 
-    <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Route Model Binding</a>
+    <a class="nav-link" data-toggle="pill" href="#Route-Model-Binding">Route Model Binding</a>
 
     
     <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Fallback Routes</a>
-    <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Rate Limiting</a>
-    <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Form Method Spoofing</a>
-    <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Accessing The Current Route</a>
+    <a class="nav-link" data-toggle="pill" href="#Rate-Limiting">Rate Limiting</a>
+    <a class="nav-link" data-toggle="pill" href="#FormMethodSpoofing">Form Method Spoofing</a>
+    <a class="nav-link" data-toggle="pill" href="#AccessingTheCurrentRoute">Accessing The Current Route</a>
 
 
 </div>

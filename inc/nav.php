@@ -28,9 +28,9 @@
 
            
 
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="<?= $path ?>Template-Syntax.php">Template Syntax</a>
-            </li> -->
+           <li class="nav-item">
+                <a class="nav-link" href="<?= $path ?>problems.php">Problems</a>
+            </li>
            
 
 
