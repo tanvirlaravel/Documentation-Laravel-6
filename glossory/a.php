@@ -1,0 +1,1 @@
+<p><button class="btn btn-outline-warning">anonymous function</button> => a closure in PHP is a function that can be created without a specified name - an anonymous function</p>
