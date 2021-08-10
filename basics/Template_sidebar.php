@@ -10,5 +10,11 @@
 
     <a class="nav-link" data-toggle="pill" href="#Fallback-Routes">Terminable Middleware</a>
 
+    <a class="nav-link" data-toggle="pill" href="#Rate-Limiting">Sorting Middleware</a>
+
+    <a class="nav-link" data-toggle="pill" href="#Form-Method-Spoofing">Middleware Parameters</a>
+
+    <a class="nav-link" data-toggle="pill" href="#Accessing-The-Current-Route">Terminable Middleware</a>
+
 
 </div>
